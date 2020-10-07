@@ -1,4 +1,4 @@
-<?php $titre = 'Accueil Portfolio ' ; ?>
+<?php $titre = 'Accueil' ; ?>
 
 <?php ob_start(); ?>
 
