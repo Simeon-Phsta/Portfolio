@@ -65,6 +65,40 @@
 
         Somei 
         https://www.somei.fr/
+        Application pour les collectivités pour les aidés à avoir une vue d'ensemble de leur commune
+        avec des vues sur les réseaux sociaux et les journalistes sur les sujets importants du moments
+        sur la qualité de l'air en fonction du lieux en direct
+        de répondre directement sur les différents réseaux sociaux de la ville en meme temps 
+
+        Legendr 
+        https://www.legendr.app/
+        Application qui se définit comme "un guide numérique sur votre smartphone"
+        l'application vous donne diverses lieux dans les villes où l'entreprise a été solicité 
+        et de redécouvrir "des lieux inconnus, disparus ou innaccessibles au travers du numérique."
+
+
+        Job pack
+        https://www.jobpack.fr/
+        Ce site a pour but de mettre en relation potentiels travailleurs, entreprises et communes 
+        Ils proposent à des communes et à des entreprises qui veulent attire de nouveaux travailleurs,
+        de nouveaux "talents" de les y aider au travers d'une plateforme qui permet à ces futurs "talents" de
+        prendre contact à la fois avec les entreprises mais aussi avec des citoyens locaux pour échanger sur les 
+        lieux et activités présent en ville ou village alentour.
+
+        
+        
+        Interstis 
+        https://www.interstis.
+        plateforme collaboritive à destination des entreprises, association et collectivités
+        la plateforme se présente pour chaque utilisateur avec un fil d'actualité concernant les noveautés
+        en fonction des groupes dont il fait parti, un agenda, un tableau pour chaque projet 
+        permettant d'y inscrire les différentes taches à faire. 
+        Possible recrutement à Creusos (pas sur de l'orthographe)
+
+
+        Veando 
+        https://www.veando.com/
+        c'est une application et un service de livraison
 
 
 
