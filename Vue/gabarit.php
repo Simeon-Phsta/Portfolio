@@ -22,6 +22,9 @@
 					<li class="nav-item active">
 						<a class="navbar-brand <?php if ($nav == 'competence') echo "positionNav"?>" href="index.php?action=competence">Compétenses</a>
 					</li>
+					<li class="nav-item active">
+						<a class="navbar-brand <?php if ($nav == 'ciivim') echo "positionNav"?>" href="index.php?action=ciivim">Le Ciivim</a>
+					</li>
 					<li class="nav-item dropdown">
 						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					 	Réalisations
@@ -44,7 +47,6 @@
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 							<a class="dropdown-item" href="public/procedure/utilisation_git_github.pdf">Utilisation de Git et GitHub</a>
-						
 							<a class="dropdown-item" href="public/procedure/utilisation_git_csharp.pdf">Utilisation de Git sur Visual Studio (C#)</a>
 						</div>
 					</li>
