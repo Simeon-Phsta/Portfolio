@@ -99,6 +99,21 @@
         Veando 
         https://www.veando.com/
         c'est une application et un service de livraison
+        L'application permet de mettre en relation client et vendeur au travers de la vidéo
+        Les clients passent commandent et paient en ligne. La livraison est assuré par des entreprises 
+        partenaires
+        l'application a pour client les communes 
+        stage possible mais uniquement à Vannes
+
+        
+        
+        Conférences 
+
+        Proxity 
+        https://proxity-edf.com/
+        pass proxity qui gagne des pts en achats 
+        les commerçants gagnent en visibilité
+        les villes gangnent en données 
 
 
 
