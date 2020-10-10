@@ -44,8 +44,7 @@
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 							<a class="dropdown-item" href="public/procedure/utilisation_git_github.pdf">Utilisation de Git et GitHub</a>
-						</div>
-						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+						
 							<a class="dropdown-item" href="public/procedure/utilisation_git_csharp.pdf">Utilisation de Git sur Visual Studio (C#)</a>
 						</div>
 					</li>
