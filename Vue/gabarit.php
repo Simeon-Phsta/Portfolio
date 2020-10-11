@@ -20,7 +20,7 @@
 						<a class="navbar-brand <?php if ($nav == 'accueil') echo "positionNav"?>" href="index.php"  title="Vous vous trouvez sur cette page">Accueil</a>
 					</li>
 					<li class="nav-item active">
-						<a class="navbar-brand <?php if ($nav == 'competence') echo "positionNav"?>" href="index.php?action=competence">Compétenses</a>
+						<a class="navbar-brand <?php if ($nav == 'competence') echo "positionNav"?>" href="index.php?action=competence">Compétences</a>
 					</li>
 					<li class="nav-item active">
 						<a class="navbar-brand <?php if ($nav == 'siivim') echo "positionNav"?>" href="index.php?action=siivim">Le Siivim</a>

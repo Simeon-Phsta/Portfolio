@@ -3,13 +3,13 @@
 
 body
 {
-    background-color:rgb(236, 239, 244);
+    background-color:rgb(255, 255, 255);
 }
 
 
 .navbar
 {
-    background-color: #dfdfdf !important;
+    background-color: rgb(255, 255, 255) !important;
     color:rgb(32, 0, 246) !important;
 }
 .navbar-collapse
@@ -89,7 +89,7 @@ strong
 }
 footer
 {
-    background-color: #dfdfdf;
+    background-color: rgb(255, 255, 255);
     margin-top: 40px;
     padding: 40px;
     text-align: center;

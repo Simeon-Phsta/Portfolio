@@ -44,7 +44,7 @@ redimensionner_image('public/img/velo_parking.jpg',400);
             </p>
         </section>
         <section class="col-md-5 ">
-            <img src="public/img/logo_Siivim.jpg">
+            <img src="public/img/logo_Siivim.jpg"><br><br><br><br>
         </section>
     </div>
 
@@ -70,7 +70,7 @@ redimensionner_image('public/img/velo_parking.jpg',400);
             </p>
         </section>
         <section class="col-md-5">
-            <img src="public/img/velo_parking.jpg" alt="fail">            
+            <img src="public/img/velo_parking.jpg" alt="fail"><br><br><br><br>         
         </section>
     </div>
 
@@ -97,7 +97,7 @@ redimensionner_image('public/img/velo_parking.jpg',400);
             </p>
         </section>
         <section class="col-md-5 ">
-            <img src="public/img/cap_collectif.png">
+            <img src="public/img/cap_collectif.png"><br><br><br><br>
         </section>
     </div>
         
@@ -114,7 +114,7 @@ redimensionner_image('public/img/velo_parking.jpg',400);
             </p>
         </section>
         <section class="col-md-5 ">
-            <img src="public/img/somei.png">
+            <img src="public/img/somei.png"><br><br><br><br>
         </section>
     </div>
 
@@ -129,7 +129,7 @@ redimensionner_image('public/img/velo_parking.jpg',400);
             </p>
         </section>
         <section class="col-md-5 ">
-            <img src="public/img/legendr.png">
+            <img src="public/img/legendr.png"><br><br><br><br>
         </section>
     </div>
 
@@ -146,7 +146,7 @@ redimensionner_image('public/img/velo_parking.jpg',400);
             </p>
         </section>
         <section class="col-md-5 ">
-            <img src="public/img/job_pack.png">
+            <img src="public/img/job_pack.png"><br><br><br><br>
         </section>
     </div>
         
@@ -162,7 +162,7 @@ redimensionner_image('public/img/velo_parking.jpg',400);
             </p>
         </section>
         <section class="col-md-5 ">
-            <img src="public/img/interstis.png">
+            <img src="public/img/interstis.png"><br><br><br><br>
         </section>
     </div>
 
@@ -180,7 +180,7 @@ redimensionner_image('public/img/velo_parking.jpg',400);
             </p>
         </section>
         <section class="col-md-5 ">
-            <img src="public/img/veando.png">
+            <img src="public/img/veando.png"><br><br><br><br>
         </section>
     </div>
 
@@ -195,7 +195,7 @@ redimensionner_image('public/img/velo_parking.jpg',400);
             </p>
         </section>
         <section class="col-md-5 ">
-            <img src="public/img/proxity.png">
+            <img src="public/img/proxity.png"><br><br><br><br>
         </section>
     </div>
 
@@ -208,7 +208,7 @@ redimensionner_image('public/img/velo_parking.jpg',400);
             </p>
         </section>
         <section class="col-md-5 ">
-            <img src="public/img/jakarto.png">
+            <img src="public/img/jakarto.png"><br><br><br><br>
         </section>
     </div>
 
@@ -222,7 +222,7 @@ redimensionner_image('public/img/velo_parking.jpg',400);
             </p>
         </section>
         <section class="col-md-5 ">
-            <img src="public/img/forma_composte.png">
+            <img src="public/img/forma_composte.png"><br><br><br><br>
         </section>
     </div>
     
