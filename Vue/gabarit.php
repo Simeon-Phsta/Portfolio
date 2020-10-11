@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title><?= $titre  ?></title>
-		 <link rel="shortcut icon" href="public/img/favicon.ico"/>
+		 
 		<meta charset="utf-8">
 		<!-- Meta obligatoire pour les sites responsive -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">

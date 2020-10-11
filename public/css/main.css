@@ -10,7 +10,7 @@ body
 .navbar
 {
     background-color: #9e9d9d !important;
-    color: rgb(131, 23, 131) !important;
+    color:rgb(32, 0, 246) !important;
 }
 .navbar-collapse
 {
@@ -22,7 +22,7 @@ body
 }
 a
 {
-    color: rgb(131, 23, 131) !important;
+    color:rgb(32, 0, 246) !important;
     text-decoration: underline !important;
 }
 a:hover
@@ -36,13 +36,13 @@ a:hover
 }
 .textAccueil
 {
-    color: rgb(131, 23, 131);
+    color: rgb(32, 0, 246);
     margin-top: 2em;
     margin-bottom: 2em;
 }
 h1
 {
-    color: rgb(131, 23, 131);
+    color: rgb(32, 0, 246);
     text-align: center;
     margin-bottom: 1em;
 }
@@ -63,7 +63,7 @@ strong
 .titreArticle
 {
     text-align: center;
-    color: rgb(131, 23, 131);
+    color:rgb(32, 0, 246);
     border-top: 1px solid black;
 }
 .imgArticle
@@ -79,13 +79,13 @@ strong
 .theArticle
 {
     padding: 2em;
-    color: rgb(131, 23, 131);
+    color:rgb(32, 0, 246);
 }
 .titreContact
 {
     margin-top: 1em;
     text-align: center;
-    color: rgb(131, 23, 131);
+    color: rgb(32, 0, 246);
 }
 footer
 {

@@ -24,17 +24,18 @@
         Pour ma part, je me suis concentré sur les projets et les échanges qui avaient pour but de recréer du lien social,
         de revaloriser les centre-villes.
 
-        Pour commencer, les projets.
+        J'ai donc participé à la fois à une conférence qui présentait des exposants et j'en ai rencontré
+        d'autres sur leurs stands.
 
 
 
         Natural Connect 
         https://naturalidees.com/
-        4 associés 
-
-        Création d'une place de marché et d'un réseau social de proximité
-        Reproduire l'IRL en virtuel 
-        But de recréer du lien malgré le covid puis de la fidélité avec leur réseau social 
+        
+        
+        C'est une entreprise avec 4 associés. Elle vend la création d'une place de marché 
+        et d'un réseau social de proximité. Ils veulent reproduire au travers du numérique des liens
+        malgré le covid puis de la fidélité avec leur réseau social 
         Le réseau social permet un échange entre clients à propos de commercants, de faire des commandes groupé
 
         Ils proposent aussi la création de lieux de vie IRL qui peuvent prendre différentes formes 
@@ -134,6 +135,8 @@
         Forma compost
         https://www.eco-conception.fr/
         Vente d'un composteur 
+
+
 
 
  
