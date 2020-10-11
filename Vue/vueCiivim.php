@@ -33,27 +33,29 @@
         https://naturalidees.com/
         
         
-        C'est une entreprise avec 4 associés. Elle vend la création d'une place de marché 
-        et d'un réseau social de proximité. Ils veulent reproduire au travers du numérique des liens
-        malgré le covid puis de la fidélité avec leur réseau social 
-        Le réseau social permet un échange entre clients à propos de commercants, de faire des commandes groupé
+        C'est une entreprise avec 4 associés. 
+        Elle vend la création d'une place de marché en ligne et d'un réseau social de proximité. 
+        Les 4 associés veulent reproduire au travers du numérique des liens sociaux
+        malgré le covid ainsi que de la fidélité avec leur réseau social.
+        Le réseau social permet un échange entre clients à propos de commercants tout comme
+        de faire des commandes groupé.
 
-        Ils proposent aussi la création de lieux de vie IRL qui peuvent prendre différentes formes 
-        selon les besoins du client (collectivités ou commerçants)
-        cela peut aussi bien être un lieux de récupération de commandes, de points d'informations,
+        Ils proposent également la création de lieux de vie dans la "vrai" vie
+        qui peuvent prendre différentes formes selon les besoins du client (collectivités ou commerçants).
+        Cela peut aussi bien être un lieux de récupération de commandes, de points d'informations,
         de covoituring ou encore de parking à vélo sécurisé.
-
-        Ils ne prennent pas de stagiaire.
 
 
 
         Cap Collectif 
         https://cap-collectif.com/
-        Start up parisienne 
+        C'est une start up parisienne, qui vend la création de plateforme participative 
+        à des collectivités. Elle peux aussi bien la livrer avec un cms 
+        ou alors font les pages pour la collectivité.
+        C'est un Software As Service (modèle d'exploitation commerciale des logiciels 
+        dans lequel ceux-ci sont installés sur des serveurs distants).
 
-        création de plateforme participative en livrant un cms ou alors font les pages pour la collectivités
-        C'est un SAS
-        le site est donc personalisable avec divers modules:
+        Le site est personalisable avec divers modules:
         - permettre la proposition de projets au près de la commune pour ensuite  retenir des projets pour
         qu'ils soient financancés par cette commune.
         - un système d'actualité sous forme de blog
@@ -61,26 +63,26 @@
         - de mettre en avant les démarches participatives
         - faire des sondages au près de leurs citoyens
 
-        pour un stage aurelien@cap-collectif.com en disant qu'on vient de la part de Maxime
+        
 
 
         Somei 
         https://www.somei.fr/
-        Application pour les collectivités pour les aidés à avoir une vue d'ensemble de leur commune
-        avec des vues sur les réseaux sociaux et les journalistes sur les sujets importants du moments
-        sur la qualité de l'air en fonction du lieux en direct
+        L'application s'adresse aux collectivités pour les aidés à avoir une vue d'ensemble de leur commune
+        avec des vues sur les réseaux sociaux et les journalistes pour avoir les sujets importants du moments,
+        tout comme être informer sur la qualité de l'air en fonction du lieux en direct
         de répondre directement sur les différents réseaux sociaux de la ville en meme temps 
 
         Legendr 
         https://www.legendr.app/
-        Application qui se définit comme "un guide numérique sur votre smartphone"
-        l'application vous donne diverses lieux dans les villes où l'entreprise a été solicité 
+        L'application se définit comme "un guide numérique sur votre smartphone".
+        L'application vous indique diverses lieux dans les villes où l'entreprise a été solicité 
         et de redécouvrir "des lieux inconnus, disparus ou innaccessibles au travers du numérique."
 
 
         Job pack
         https://www.jobpack.fr/
-        Ce site a pour but de mettre en relation potentiels travailleurs, entreprises et communes 
+        Ce site a pour but de mettre en relation potentiels travailleurs, entreprises et communes.
         Ils proposent à des communes et à des entreprises qui veulent attire de nouveaux travailleurs,
         de nouveaux "talents" de les y aider au travers d'une plateforme qui permet à ces futurs "talents" de
         prendre contact à la fois avec les entreprises mais aussi avec des citoyens locaux pour échanger sur les 

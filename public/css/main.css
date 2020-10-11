@@ -3,13 +3,13 @@
 
 body
 {
-    background-color: #B7B7B7;
+    background-color:rgb(236, 239, 244);
 }
 
 
 .navbar
 {
-    background-color: #9e9d9d !important;
+    background-color: #dfdfdf !important;
     color:rgb(32, 0, 246) !important;
 }
 .navbar-collapse
@@ -89,7 +89,7 @@ strong
 }
 footer
 {
-    background-color: #9e9d9d;
+    background-color: #dfdfdf;
     margin-top: 40px;
     padding: 40px;
     text-align: center;
