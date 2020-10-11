@@ -115,9 +115,28 @@
         les commerçants gagnent en visibilité
         les villes gangnent en données 
 
+        
+        Jackarto
+        https://www.jakarto.com/fr/
+        numérisation de la ville en 3D pour géréoréférencé 
+
+        Emart 
+        https://emart.cd/no
+        Plateforme de vente de produit exotique pour l'Europe
+
+        Gecos
+        https://gecos.fr/
+        Carte interactive pour afficher les services en 3D (google maps)
+
+        IS data solution 
+        Tableau de bord pour les mairies
+
+        Forma compost
+        https://www.eco-conception.fr/
+        Vente d'un composteur 
 
 
-
+ 
         </p>
     </section>
 
