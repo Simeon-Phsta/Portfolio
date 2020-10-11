@@ -12,12 +12,6 @@
         <li>Rédiger un compte-rendu d’entretien, de réunion</li>
       </ul>
 
-      <p>A1.4.1 : Participation à un projet</p>
-      <ul>
-        <li>C1.4.1.1 Établir son planning personnel en fonction des exigences et du déroulement du projet</li>
-        <li>C1.4.1.2 Rendre compte de son activité</li>
-      </ul>
-
       <p>A2.3.1 : Identification, qualification et évaluation d’un problème</p>
       <ul>
         <li>C2.3.1.1 Repérer une suite de dysfonctionnements récurrents d’un service</li>
@@ -39,6 +33,14 @@
         <li>C4.1.1.1 Identifier les composants logiciels nécessaires à la conception de la solution</li>
         <li>C4.1.1.2 Estimer les éléments de coût et le délai de mise en oeuvre de la solution</li>
       </ul>
+      <a href="public/comp/evo_site.pdf">Proposition d'évolution du site internet de Maleluka</a>
+
+      <br><br><br><p>A1.4.1 : Participation à un projet</p>
+      <ul>
+        <li>C1.4.1.1 Établir son planning personnel en fonction des exigences et du déroulement du projet</li>
+        <li>C1.4.1.2 Rendre compte de son activité</li>
+      </ul>
+      <a href="public/comp/planning_stage.pdf">Proposition d'évolution du site internet de Maleluka</a>
     </section>
   </div>
 </main>
