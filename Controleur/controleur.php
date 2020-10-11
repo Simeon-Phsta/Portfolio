@@ -15,9 +15,9 @@ function competence(){
 
 }
 
-function ciivim(){
-  $nav = 'ciivim';
-  require 'Vue/vueCiivim.php';
+function siivim(){
+  $nav = 'siivim';
+  require 'Vue/vueSiivim.php';
 }
 
 //  Affiche une erreur

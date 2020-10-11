@@ -19,9 +19,9 @@
                 break;
               }
 
-              case 'ciivim':
+              case 'siivim':
               {
-                ciivim();
+                siivim();
                 break;
               }
 
