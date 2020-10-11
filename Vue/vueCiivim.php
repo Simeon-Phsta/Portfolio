@@ -6,36 +6,42 @@
 
 <main class="container">
     <div class="row contenu">
-        <section class="col-md-12 Ciivim">
+        <section class="col-md-8 Ciivim">
             <p>
-                Le Ciivim de Nevers<br>
+                Le Ciivim de Nevers<br><br>
 
                 J'ai pu assisté à la 3ème édition du Siivim de Nevers, le vendredi 9 octobre.
                 Le Sommet international de l’innovation en villes médianes (SIIViM) se compose
                 de diverses exposants et d'échanges comme des pech ou des conférences par exemple.
                 Tout cela tourne autour de l'inovation numérique ou non afin d'améliorer le quotidient
-                des villes médianes et de leurs citoyens. <br>
+                des villes médianes et de leurs citoyens. <br><br>
 
                 Les inovations allaient de la réorganisation de nos façons de gérer les déchets en passant par
                 la création de plateforme pour la mise en relation de particulier avec des producteurs locaux pour
                 finir sur la façon de repenser nos objets connectés, de notre portable au data center pour les rendrent
-                moins polluant.
+                moins polluant.<br><br>
 
                 Pour ma part, je me suis concentré sur les projets et les échanges qui avaient pour but de recréer du lien social,
-                de revaloriser les centre-villes.
+                de revaloriser les centre-villes.<br><br>
 
                 J'ai donc participé à la fois à une conférence qui présentait des exposants et j'en ai rencontré
                 d'autres sur leurs stands.
             </p>
         </section>
+        <section class="col-md-4 ">
+            <img src="public/img/logo_ciivim.jpg">
+        </section>
     </div>
 
 
     <div class="row contenu">
-        <section class="col-md-12 Ciivim">
+        <section class="col-md-4">
+            <img src="public/img/velo_parking.jpg">
+        </section>
+        <section class="col-md-8 Natural_Connect">
             <p>
-                Natural Connect 
-                https://naturalidees.com/
+                <br><br>Natural Connect<br>
+                <a href="https://naturalidees.com/">Leur site</a><br><br>
                 
                 
                 C'est une entreprise avec 4 associés. 
@@ -43,7 +49,7 @@
                 Les 4 associés veulent reproduire au travers du numérique des liens sociaux
                 malgré le covid ainsi que de la fidélité avec leur réseau social.
                 Le réseau social permet un échange entre clients à propos de commercants tout comme
-                de faire des commandes groupé.
+                de faire des commandes groupé.<br>
 
                 Ils proposent également la création de lieux de vie dans la "vrai" vie
                 qui peuvent prendre différentes formes selon les besoins du client (collectivités ou commerçants).
@@ -54,134 +60,154 @@
     </div>
 
     <div class="row contenu">
-        <section class="col-md-12 Ciivim">
+        <section class="col-md-8 Cap_collectif">
             <p>
-        Cap Collectif 
-        https://cap-collectif.com/
-        C'est une start up parisienne, qui vend la création de plateforme participative 
-        à des collectivités. Elle peux aussi bien la livrer avec un cms 
-        ou alors font les pages pour la collectivité.
-        C'est un Software As Service (modèle d'exploitation commerciale des logiciels 
-        dans lequel ceux-ci sont installés sur des serveurs distants).
+                <br><br>Cap Collectif <br>
+                https://cap-collectif.com/<br><br>
+                C'est une start up parisienne, qui vend la création de plateforme participative 
+                à des collectivités. Elle peux aussi bien la livrer avec un cms 
+                ou alors font les pages pour la collectivité.
+                C'est un Software As Service (modèle d'exploitation commerciale des logiciels 
+                dans lequel ceux-ci sont installés sur des serveurs distants).<br>
 
-        Le site est personalisable avec divers modules:
-        - permettre la proposition de projets au près de la commune pour ensuite  retenir des projets pour
-        qu'ils soient financancés par cette commune.
-        - un système d'actualité sous forme de blog
-        - montrer les évènements en ville avec un système d'inscription
-        - de mettre en avant les démarches participatives
-        - faire des sondages au près de leurs citoyens
+                Le site est personalisable avec divers modules:
+                <ul>
+                    <li>permettre la proposition de projets au près de la commune pour ensuite 
+                    retenir des projets pour qu'ils soient financancés par cette commune.</li>
+                    <li>un système d'actualité sous forme de blog</li>
+                    <li>montrer les évènements en ville avec un système d'inscription</li>
+                    <li>mettre en avant les démarches participatives au sein de la collectivité</li>
+                    <li>faire des sondages au près de leurs citoyens</li>
+                </ul>
             </p>
+        </section>
+        <section class="col-md-4 ">
+            <img src="public/img/cap_collectif.png">
         </section>
     </div>
         
     <div class="row contenu">
-        <section class="col-md-12 Ciivim">
+    <section class="col-md-4 ">
+            <img src="public/img/somei.png">
+        </section>
+        <section class="col-md-8 Somei">
             <p>
-
-        Somei 
-        https://www.somei.fr/
-        L'application s'adresse aux collectivités pour les aidés à avoir une vue d'ensemble de leur commune
-        avec des vues sur les réseaux sociaux et les journalistes pour avoir les sujets importants du moments,
-        tout comme être informer sur la qualité de l'air en fonction du lieux en direct
-        de répondre directement sur les différents réseaux sociaux de la ville en meme temps 
+                <br><br>Somei <br>
+                <a href="https://www.somei.fr/">Somei.fr</a><br>
+                L'application s'adresse aux collectivités pour les aidés à avoir une vue d'ensemble 
+                de leur commune avec des vues sur les réseaux sociaux et les journalistes 
+                pour avoir les sujets importants du moments, tout comme être informer sur la qualité de l'air 
+                en fonction du lieux en direct de répondre directement sur les différents réseaux sociaux
+                de la ville en même temps.
             </p>
         </section>
     </div>
 
     <div class="row contenu">
-        <section class="col-md-12 Ciivim">
+        <section class="col-md-8 Legendr">
             <p>        
-        Legendr 
-        https://www.legendr.app/
-        L'application se définit comme "un guide numérique sur votre smartphone".
-        L'application vous indique diverses lieux dans les villes où l'entreprise a été solicité 
-        et de redécouvrir "des lieux inconnus, disparus ou innaccessibles au travers du numérique."
+                <br><br> Legendr <br>
+                <a href="https://www.legendr.app/">Legendr.app</a> <br>
+                L'application se définit comme "un guide numérique sur votre smartphone". <br>
+                L'application vous indique diverses lieux dans les villes où l'entreprise a été solicité 
+                et de redécouvrir "des lieux inconnus, disparus ou innaccessibles au travers du numérique."
             </p>
+        </section>
+        <section class="col-md-4 ">
+            <img src="public/img/legendr.png">
         </section>
     </div>
 
     <div class="row contenu">
-        <section class="col-md-12 Ciivim">
+        <section class="col-md-4 ">
+            <img src="public/img/job_pack.png">
+        </section>
+        <section class="col-md-8  Job_pack">
             <p>
-        Job pack
-        https://www.jobpack.fr/
-        Ce site a pour but de mettre en relation potentiels travailleurs, entreprises et communes.
-        Ils proposent à des communes et à des entreprises qui veulent attire de nouveaux travailleurs,
-        de nouveaux "talents" de les y aider au travers d'une plateforme qui permet à ces futurs "talents" de
-        prendre contact à la fois avec les entreprises mais aussi avec des citoyens locaux 
-        pour échanger sur les lieux et activités présent en ville ou village alentour.
+                <br><br> Job pack <br>
+                <a href="https://www.jobpack.fr/" >jobpack.fr</a><br>
+                Ce site a pour but de mettre en relation potentiels travailleurs, entreprises et communes. <br>
+                Ils proposent à des communes et à des entreprises qui veulent attire de nouveaux travailleurs,
+                de nouveaux "talents" de les y aider au travers d'une plateforme qui permet à ces futurs "talents" de
+                prendre contact à la fois avec les entreprises mais aussi avec des citoyens locaux 
+                pour échanger sur les lieux et activités présent en ville ou village alentour.
             </p>
         </section>
     </div>
         
     <div class="row contenu">
-        <section class="col-md-12 Ciivim">
+        <section class="col-md-8 Interstis">
             <p>
-        Interstis 
-        https://www.interstis.
-        C'est une plateforme collaboritive à destination des entreprises, association et collectivités.
-        La plateforme se présente pour chaque utilisateur avec un fil d'actualité concernant les noveautés
-        en fonction des groupes dont il fait parti, un agenda, un tableau pour chaque projet 
-        permettant d'y inscrire les différentes taches à faire. 
+                <br><br> Interstis <br>
+                <a href="https://www.interstis.fr">Interstis.fr</a><br>
+                C'est une plateforme collaboritive à destination des entreprises, association et collectivités. <br>
+                La plateforme se présente pour chaque utilisateur avec un fil d'actualité concernant les noveautés
+                en fonction des groupes dont il fait parti, un agenda, un tableau pour chaque projet 
+                permettant d'y inscrire les différentes taches à faire. 
+            </p>
+        </section>
+        <section class="col-md-4 ">
+            <img src="public/img/interstis.png">
+        </section>
+    </div>
+
+
+    <div class="row contenu">
+        <section class="col-md-4 ">
+            <img src="public/img/veando.png">
+        </section>
+        <section class="col-md-8 Veando">
+            <p>
+                <br><br> Veando <br>
+                <a href="https://www.veando.com/">veando.com</a><br>
+                C'est une application et un service de livraison. <br>
+                L'application permet de mettre en relation client et vendeur au travers de la vidéo. <br>
+                Les clients passent commandent et paient en ligne. La livraison est assuré par des entreprises 
+                partenaires de l'application. <br>
+                Elle a pour client les communes. 
+            </p>
+        </section>
+    </div>
+
+    <div class="row contenu">
+        <section class="col-md-8 Proxity">
+            <p>
+                <br><br> Proxity <br>
+                <a href="https://proxity-edf.com/">proxity-edf.com</a><br>
+                L'entreprise propose un pass proxity qui fait gagner des points achats, en somme une carte de
+                fidélité mais pour revalorisé les centre-villes et leurs commerces. Les commerçants gagnent eux,
+                en visibilité. Les clients gagnent des bons d'achats.
+            </p>
+        </section>
+        <section class="col-md-4 ">
+            <img src="public/img/proxity.png">
+        </section>
+    </div>
+
+    <div class="row contenu">
+        <section class="col-md-4 ">
+            <img src="public/img/jakarto.png">
+        </section>
+        <section class="col-md-8 jakarto">
+            <p>
+                <br><br> Jackarto <br>
+                <a href="https://www.jakarto.com/fr/" >jakarto.com</a><br>
+                L'entreprise réalise la numérisation de la ville qui est sa cliente, en 3D.
             </p>
         </section>
     </div>
 
 
     <div class="row contenu">
-        <section class="col-md-12 Ciivim">
+        <section class="col-md-8 Ciivim">
             <p>
-        Veando 
-        https://www.veando.com/
-        C'est une application et un service de livraison.
-        L'application permet de mettre en relation client et vendeur au travers de la vidéo.
-        Les clients passent commandent et paient en ligne. La livraison est assuré par des entreprises 
-        partenaires de l'application.
-        Elle a pour client les communes.
+                <br><br> Forma compost <br>
+                <a href="https://www.facebook.com/formacompost00/">Le facebook de Forma Compost</a><br>
+                L'entreprise vend des composteurs. 
             </p>
         </section>
-    </div>
-
-    <div class="row contenu">
-        <section class="col-md-12 Ciivim">
-            <p>
-        Proxity 
-        https://proxity-edf.com/
-        L'entreprise propose un pass proxity qui fait gagner des points achats, en somme une carte de
-        fidélité mais pour revalorisé les centre-villes et leurs commerces. Les commerçants gagnent eux,
-        en visibilité. Les clients gagnent des bons d'achats.
-            </p>
-        </section>
-    </div>
-
-    <div class="row contenu">
-        <section class="col-md-12 Ciivim">
-            <p>
-        Jackarto
-        https://www.jakarto.com/fr/
-        L'entreprise réalise la numérisation de la ville qui est sa cliente, en 3D.
-            </p>
-        </section>
-    </div>
-
-    <div class="row contenu">
-        <section class="col-md-12 Ciivim">
-            <p>
-        Gecos
-        https://gecos.fr/
-        C'est une carte interactive numérique pour afficher les services en 3D ( à la manière degoogle maps).
-            </p>
-        </section>
-    </div>
-
-    <div class="row contenu">
-        <section class="col-md-12 Ciivim">
-            <p>
-        Forma compost
-        https://www.facebook.com/formacompost00/
-        L'entreprise vend des composteurs. 
-            </p>
+        <section class="col-md-4 ">
+            <img src="public/img/proxity.png">
         </section>
     </div>
     
