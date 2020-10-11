@@ -1,19 +1,6 @@
 <?php $titre = 'Le Siivim' ; ?>
 
 <?php ob_start(); ?>
-<?php 
-redimensionner_image('public/img/cap_collectif.png',400);
-redimensionner_image('public/img/forma_composte.png',400);
-redimensionner_image('public/img/interstis.png',400);
-redimensionner_image('public/img/jakarto.png',400);
-redimensionner_image('public/img/job_pack.png',400);
-redimensionner_image('public/img/legendr.png',400);
-redimensionner_image('public/img/logo_Siivim.jpg',400);
-redimensionner_image('public/img/proxity.png',400);
-redimensionner_image('public/img/somei.png',400);
-redimensionner_image('public/img/veando.png',400);
-redimensionner_image('public/img/velo_parking.jpg',400);
-?>
 
 
 
