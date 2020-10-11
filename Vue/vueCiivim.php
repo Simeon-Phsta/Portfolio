@@ -85,61 +85,45 @@
         Ce site a pour but de mettre en relation potentiels travailleurs, entreprises et communes.
         Ils proposent à des communes et à des entreprises qui veulent attire de nouveaux travailleurs,
         de nouveaux "talents" de les y aider au travers d'une plateforme qui permet à ces futurs "talents" de
-        prendre contact à la fois avec les entreprises mais aussi avec des citoyens locaux pour échanger sur les 
-        lieux et activités présent en ville ou village alentour.
+        prendre contact à la fois avec les entreprises mais aussi avec des citoyens locaux 
+        pour échanger sur les lieux et activités présent en ville ou village alentour.
 
         
         
         Interstis 
         https://www.interstis.
-        plateforme collaboritive à destination des entreprises, association et collectivités
-        la plateforme se présente pour chaque utilisateur avec un fil d'actualité concernant les noveautés
+        C'est une plateforme collaboritive à destination des entreprises, association et collectivités.
+        La plateforme se présente pour chaque utilisateur avec un fil d'actualité concernant les noveautés
         en fonction des groupes dont il fait parti, un agenda, un tableau pour chaque projet 
         permettant d'y inscrire les différentes taches à faire. 
-        Possible recrutement à Creusos (pas sur de l'orthographe)
 
 
         Veando 
         https://www.veando.com/
-        c'est une application et un service de livraison
-        L'application permet de mettre en relation client et vendeur au travers de la vidéo
+        C'est une application et un service de livraison.
+        L'application permet de mettre en relation client et vendeur au travers de la vidéo.
         Les clients passent commandent et paient en ligne. La livraison est assuré par des entreprises 
-        partenaires
-        l'application a pour client les communes 
-        stage possible mais uniquement à Vannes
-
-        
-        
-        Conférences 
+        partenaires de l'application.
+        Elle a pour client les communes.
 
         Proxity 
         https://proxity-edf.com/
-        pass proxity qui gagne des pts en achats 
-        les commerçants gagnent en visibilité
-        les villes gangnent en données 
+        L'entreprise propose un pass proxity qui fait gagner des points achats, en somme une carte de
+        fidélité mais pour revalorisé les centre-villes et leurs commerces. Les commerçants gagnent eux,
+        en visibilité. Les clients gagnent des bons d'achats.
 
         
         Jackarto
         https://www.jakarto.com/fr/
-        numérisation de la ville en 3D pour géréoréférencé 
-
-        Emart 
-        https://emart.cd/no
-        Plateforme de vente de produit exotique pour l'Europe
+        L'entreprise réalise la numérisation de la ville qui est sa cliente, en 3D.
 
         Gecos
         https://gecos.fr/
-        Carte interactive pour afficher les services en 3D (google maps)
-
-        IS data solution 
-        Tableau de bord pour les mairies
+        C'est une carte interactive numérique pour afficher les services en 3D ( à la manière degoogle maps).
 
         Forma compost
-        https://www.eco-conception.fr/
-        Vente d'un composteur 
-
-
-
+        https://www.facebook.com/formacompost00/
+        L'entreprise vend des composteurs. 
 
  
         </p>
