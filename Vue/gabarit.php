@@ -1,14 +1,17 @@
 <!DOCTYPE html> <!-- début code html -->
 <html>
 	<head>
+	
 		<title><?= $titre  ?></title>
 		 
 		<meta charset="utf-8">
+
 		<!-- Meta obligatoire pour les sites responsive -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 		<!-- Fichiers CSS -->
 		<link rel="stylesheet" type="text/css" href="public/css/main.css">
+
 	</head>
 	<body>
 
