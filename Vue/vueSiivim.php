@@ -185,33 +185,6 @@
             <img src="public/img/proxity.png"><br><br><br><br>
         </section>
     </div>
-
-    <div class="row contenu">
-        <section class="col-md-7 jakarto">
-            <p>
-                <br><br> Jackarto <br>
-                <a href="https://www.jakarto.com/fr/" >jakarto.com</a><br>
-                L'entreprise réalise la numérisation de la ville qui est sa cliente, en 3D.
-            </p>
-        </section>
-        <section class="col-md-5 ">
-            <img src="public/img/jakarto.png"><br><br><br><br>
-        </section>
-    </div>
-
-
-    <div class="row contenu">
-        <section class="col-md-7 Siivim">
-            <p>
-                <br><br> Forma compost <br>
-                <a href="https://www.facebook.com/formacompost00/">Le facebook de Forma Compost</a><br>
-                L'entreprise vend des composteurs. 
-            </p>
-        </section>
-        <section class="col-md-5 ">
-            <img src="public/img/forma_composte.png"><br><br><br><br>
-        </section>
-    </div>
     
 </main>
 <!-- fin texte page Siivim>
